@@ -48,7 +48,7 @@ add commit message we can use this following command
 
 15. `git remote` -> list down all the remote connection names
 
-16. Remote connection -> It helps you to link two git repositories for uploading and downloading changes
+16. `Remote connection` -> It helps you to link two git repositories for uploading and downloading changes
     from each otherwise
 
 17. `git remote add <name of remote> <link of the remote>` : this command helps us to add a new link to the
@@ -75,6 +75,4 @@ Note: The name of the remote connection is always used to establish communicatio
     - git pull
     - git push
 
-23. Merge conflicts are a very common scnario
-
-merge conflicts can occur if multiple people try to make changes to the same file, and then collaborate
+23. `Merge conflicts` are a very common scenario merge conflicts can occur if multiple people try to make changes to the same file, and then collaborate
