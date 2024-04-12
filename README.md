@@ -84,5 +84,14 @@ Note: The name of the remote connection is always used to establish communicatio
 27. ` git stash show stash@{1}`
 
 28. `git stash --include-untracked`
+29. `git stash --include-untracked -- <filename>`
 
-29. `git stash --all`
+30. `git stash --all`
+
+31. `git stash pop`
+
+32. `git stash drop`
+
+33. `git stash save "saving config.js"`
+
+34. `git commit --amend`
