@@ -80,3 +80,5 @@ Note: The name of the remote connection is always used to establish communicatio
 25. `git stash list`
 
 26. `git stash apply`
+
+27. ` git stash show stash@{1}`
