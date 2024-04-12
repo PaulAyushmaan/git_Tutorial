@@ -115,3 +115,5 @@ Note: The name of the remote connection is always used to establish communicatio
 42. `git show v1`
 
 43. `git show-ref --tags`
+
+44. `git update-git-for-windows`
