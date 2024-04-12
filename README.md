@@ -27,6 +27,8 @@
 
 9. `git log` -> list downs all the commits of the repository. If you want to exit out of git log prompt
    press `q`.
+   ` git log --graph`
+   ` git log --stat`
 
 10. `git restore <file>` -> it removes all files changes from the staging area to be committed. This can
     be useful, if we did some dirty piece of code and now no more want it. Instead of deleting every change
@@ -97,3 +99,19 @@ Note: The name of the remote connection is always used to establish communicatio
 34. `git commit --amend`
 
 35. `git reflog`
+
+36. `git checkout -b feature_branch` -> It is For Creating a new branch
+
+37. `git checkout master` -> For switching branches
+
+38. `git branch` -> For showing all branches
+
+39. `git log --all --decorate --oneline --graph`
+
+40. `tree .git`
+
+41. `git tag -a v1 -m "tag 1"` -> For creating new tag
+
+42. `git show v1`
+
+43. `git show-ref --tags`
