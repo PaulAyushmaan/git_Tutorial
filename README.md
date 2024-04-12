@@ -82,3 +82,7 @@ Note: The name of the remote connection is always used to establish communicatio
 26. `git stash apply`
 
 27. ` git stash show stash@{1}`
+
+28. `git stash --include-untracked`
+
+29. `git stash --all`
